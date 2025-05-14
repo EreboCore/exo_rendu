@@ -1,4 +1,4 @@
-puts " donne moi ton annee de naissance"
+puts " donne moi ton age"
 
 print ">"
 
