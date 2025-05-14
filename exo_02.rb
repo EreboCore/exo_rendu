@@ -1,6 +1,6 @@
 puts " Quel est ton prenom ?"
 
-print ">"
+print "> "
 
 user_name = gets.chomp
 

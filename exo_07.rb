@@ -4,6 +4,10 @@ print ">"
 
 user_num = gets.chomp.to_i
 
-user_num.times do |i|
-    puts i +1 
+# user_num.times do |i|
+#     puts i +1 
+# end
+
+1.upto(user_num) do |i|
+    puts i 
 end
